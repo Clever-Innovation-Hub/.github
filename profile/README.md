@@ -1,12 +1,16 @@
-## Hi there 👋
+# Cléver Innovation Hub
 
-<!--
+Cléver Innovation Hub é uma organização no GitHub usada para agrupar projetos de software, automações e experimentos técnicos em um único lugar.
 
-**Here are some ideas to get you started:**
+Este espaço serve para organizar código, testes de tecnologia e recursos de apoio ao desenvolvimento em repositórios separados e controlados.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositórios
+
+Os repositórios podem incluir  
+- serviços e aplicações de uso interno  
+- ferramentas de suporte ao desenvolvimento  
+- protótipos e provas de conceito  
+
+## Contato
+
+Para parcerias, ideias de novos produtos ou colaboração estratégica consulte os canais de contato indicados no perfil da organização
