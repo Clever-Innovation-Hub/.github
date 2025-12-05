@@ -1,6 +1,6 @@
 # Cléver Innovation Hub
 
-Cléver Innovation Hub é uma organização no GitHub usada para agrupar projetos de software, automações e experimentos técnicos em um único lugar.
+Organização usada para agrupar projetos de software, automações e experimentos técnicos em um único lugar.
 
 Este espaço serve para organizar código, testes de tecnologia e recursos de apoio ao desenvolvimento em repositórios separados e controlados.
 
