@@ -1,4 +1,4 @@
-# Cléver Innovation Hub
+# Clever Innovation Hub
 
 Organização usada para agrupar projetos de software, automações e experimentos técnicos em um único lugar.
 
